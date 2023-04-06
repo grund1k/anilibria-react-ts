@@ -21,8 +21,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        if [ -d 'project' ]; then cd project && npm install; else echo 'Skip. The project directory does not exist'; fi
+        if npm install
 
     - name: Run checks
       run: |
-        if [ -d 'project' ]; then cd project && npm test && npm run lint; else echo 'Skip. The project directory does not exist'; fi
+        if npm test && npm run lint
