@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anilibria-react-ts/static/css/main.3a062250.css",
+    "main.js": "/anilibria-react-ts/static/js/main.58a2cf88.js",
+    "static/js/787.cd967eff.chunk.js": "/anilibria-react-ts/static/js/787.cd967eff.chunk.js",
+    "static/media/logo.svg": "/anilibria-react-ts/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/anilibria-react-ts/index.html",
+    "main.3a062250.css.map": "/anilibria-react-ts/static/css/main.3a062250.css.map",
+    "main.58a2cf88.js.map": "/anilibria-react-ts/static/js/main.58a2cf88.js.map",
+    "787.cd967eff.chunk.js.map": "/anilibria-react-ts/static/js/787.cd967eff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a062250.css",
+    "static/js/main.58a2cf88.js"
+  ]
+}
