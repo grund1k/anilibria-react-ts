@@ -20,14 +20,7 @@ jobs:
       name: Checkout
 
     - name: Install dependencies
-<<<<<<< HEAD
-      run: npm install
-
-    - name: Run checks
-      run: npm test && npm run lint
-=======
       run:  npm install
 
     - name: Run checks
       run:  npm test && npm run lint
->>>>>>> 6a2d263861fcaf465a0bfbfcb82b979b78d15e8c
